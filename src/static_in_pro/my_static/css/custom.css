@@ -1,0 +1,40 @@
+.sizer{
+    width: 150px;
+    height: 150px;
+}
+
+.new_panel_color{
+    background-color: FFADB3;
+    border-color: red;
+    color: black;
+}
+
+.resizer{
+    width: 250px;
+    height: 250px;
+}
+
+.boxsizer{
+    height: 550px;
+}
+
+.boxsizer_liked{
+    height: 350px;
+}
+
+.box_posts{
+    height:400px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin: 30px
+}
+
+.box_list{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin:30px
+}
+
+.form-control{
+    margin-bottom: 15px;
+}

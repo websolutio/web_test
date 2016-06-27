@@ -1,3 +1,5 @@
 ENV/
 src/db.sqlite3
-
+web_test.komodoproject
+src/web_test/settings.py
+src/web_test/settings.pyc
